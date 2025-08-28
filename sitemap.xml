@@ -1,73 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>https://www.pokerskills.fr/offre-decouverte-poker-mtt-gratuite</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/starter</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/coaching-individuel</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/poker-mindset</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/poker-club-winamax</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/contact-pokerskills</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/school?tab=enrollments</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/buy-in-grinder</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/contact-pokerskills-p</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/buy-in-starter</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/buy-in-pm7</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc>https://www.pokerskills.fr/merci-club-winamax-pokerskills</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
-<url>
-  <loc></loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2025-08-26</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Page d’accueil -->
+  <url>
+    <loc>https://www.pokerskills.fr/</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Poker Mindset -->
+  <url>
+    <loc>https://www.pokerskills.fr/poker-mindset</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Offre Poker -->
+  <url>
+    <loc>https://www.pokerskills.fr/offre-poker</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Poker Club Winamax -->
+  <url>
+    <loc>https://www.pokerskills.fr/poker-club-winamax</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- MasterClass Starter -->
+  <url>
+    <loc>https://www.pokerskills.fr/masterclass-starter</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- DoubleUp -->
+  <url>
+    <loc>https://www.pokerskills.fr/doubleup</loc>
+    <lastmod>2025-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
